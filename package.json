@@ -1,0 +1,23 @@
+{
+  "name": "cool-gifs-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannaell/cool-GIFs-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannaell/cool-GIFs-search/issues"
+  },
+  "homepage": "https://github.com/hannaell/cool-GIFs-search#readme",
+  "dependencies": {
+    "supervillains": "^2.1.0"
+  }
+}
