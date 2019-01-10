@@ -5,19 +5,24 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "rollup --config --watch",
+    "build": "rollup --config"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hannaell/cool-GIFs-search.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hannaell/cool-GIFs-search/issues"
   },
   "homepage": "https://github.com/hannaell/cool-GIFs-search#readme",
   "dependencies": {
+    "rollup": "^1.1.0",
     "supervillains": "^2.1.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-browsersync": "^1.0.0"
   }
 }
