@@ -1,1 +1,0 @@
-{"version":3,"file":"giphy.js","sources":["../src/scripts/index.js"],"sourcesContent":["console.log(\"Hello Rollup\");\n\nimport '../styles/index.scss';\n"],"names":["console","log"],"mappings":"yBAAAA,QAAQC,IAAI"}
